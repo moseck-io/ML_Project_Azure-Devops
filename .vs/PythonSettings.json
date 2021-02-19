@@ -1,3 +1,4 @@
 {
-  "Interpreter": ".myrepo\\Scripts\\python.exe"
+  "Interpreter": ".myrepo\\Scripts\\python.exe",
+  "TestFramework": "Pytest"
 }
