@@ -3,3 +3,4 @@ This Project will integrate an Azure Cloud Shell Environment and use it to build
 
 
 GitHub Action result:
+![Python application test with Github Actions] (Screenshots/Make-all_PASSED.PNG)
