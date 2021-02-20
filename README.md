@@ -5,7 +5,7 @@
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
+* https://trello.com/b/QpMItK6Y/udacity-project-ii - Board Link
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
