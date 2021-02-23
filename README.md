@@ -3,14 +3,13 @@
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
-<TODO: Project Plan
+Project Plan
 
 * https://trello.com/b/QpMItK6Y/udacity-project-ii - Board Link
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
-
-<TODO:  
+ 
 * Architectural Diagram (Shows how key parts of the system work)>
 
 Steps to run this project
